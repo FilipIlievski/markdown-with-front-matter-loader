@@ -17,15 +17,14 @@
     "webpack",
     "loader"
   ],
-  "author": "Matthew Dapena-Tretter <m@tthewwithanm.com>",
+  "author": "Filip Ilievski",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/matthewwithanm/markdown-with-front-matter-loader/issues"
-  },
-  "homepage": "https://github.com/matthewwithanm/markdown-with-front-matter-loader",
+  "homepage": "https://github.com/FilipIlievski/markdown-with-front-matter-loader",
   "dependencies": {
+    "highlight.js": "^9.15.10",
     "loader-utils": "^0.2.9",
     "marked": "^0.3.3",
+    "prismjs": "^1.17.1",
     "yaml-front-matter": "^3.2.3"
   }
 }
